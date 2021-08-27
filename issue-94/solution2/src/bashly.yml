@@ -1,0 +1,13 @@
+name: upgrade-tool
+help: Upgrade my stuff
+version: 0.1.0
+
+commands:
+- name: all
+  help: Upgrade all
+
+- name: docker
+  help: Upgrade docker
+
+- name: ruby
+  help: Upgrade ruby

@@ -1,0 +1,8 @@
+name: upgrade-tool
+help: Upgrade my stuff
+version: 0.1.0
+
+args:
+- name: package
+  help: Package to upgrade
+  default: all
